@@ -6,6 +6,9 @@ For more information on building JavaScript or NodeJS applications, see [JavaScr
 # CI:
 [![Build Status](https://dev.azure.com/kavyatech/ExampleJavaScript/_apis/build/status/kpassoubady.pipelines-javascript?branchName=master)](https://dev.azure.com/kavyatech/ExampleJavaScript/_build/latest?definitionId=32&branchName=master)
 
+# Job Status:
+[![Build Status](https://dev.azure.com/kavyatech/ExampleJavaScript/_apis/build/status/kpassoubady.pipelines-javascript?branchName=master&jobName=Job)](https://dev.azure.com/kavyatech/ExampleJavaScript/_build/latest?definitionId=32&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
